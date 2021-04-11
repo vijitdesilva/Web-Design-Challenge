@@ -1,4 +1,7 @@
 # Web-Design-Challenge
+
+Please visit:  https://vijitdesilva.github.io/WebDesignChallenge/
+
 Web Visualization Dashboard of weather 
 500+ cities at different latitudes relative to the equator was analysed.
 
@@ -8,4 +11,5 @@ Latitude Vs temperature
 Latitude Vs humidity 
 Latitude Vs cloudiness
 Latitude Vs wind speed 
-Please visit:  https://vijitdesilva.github.io/WebDesignChallenge/
+
+
